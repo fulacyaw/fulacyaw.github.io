@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fulacyaw.github.io/sitemap.html.gz
+Sitemap: https://fulacyaw.github.io/app/sitemap.html.gz
+Sitemap: https://fulacyaw.github.io/assets/sitemap.html.gz
+Sitemap: https://fulacyaw.github.io/css/sitemap.html.gz
+Sitemap: https://fulacyaw.github.io/includes/sitemap.html.gz
+Sitemap: https://fulacyaw.github.io/item/sitemap.html.gz
+Sitemap: https://fulacyaw.github.io/src/sitemap.html.gz
